@@ -1,0 +1,4 @@
+*.rbxl.lock
+*.tmp
+autosave/
+logs/

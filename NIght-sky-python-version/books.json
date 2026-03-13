@@ -1,0 +1,346 @@
+[
+    {
+        "id": "b1",
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "price": 1499.0,
+        "description": "A hands-on, project-based introduction to programming.",
+        "cover_path": "book_covers/Python Crash Course.jpg"
+    },
+    {
+        "id": "b2",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "price": 1999.0,
+        "description": "A handbook of agile software craftsmanship.",
+        "cover_path": "book_covers/Clean Code.png"
+    },
+    {
+        "id": "b3",
+        "title": "The Pragmatic Programmer",
+        "author": "David Thomas",
+        "price": 2500.0,
+        "description": "Your journey to mastery.",
+        "cover_path": "book_covers/The Pragmatic Programmer.png"
+    },
+    {
+        "id": "b4",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "price": 899.0,
+        "description": "Build better habits, break bad ones.",
+        "cover_path": "book_covers/Atomic Habits.jpg"
+    },
+    {
+        "id": "b5",
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "price": 799.0,
+        "description": "Counterintuitive guide to meaningful living.",
+        "cover_path": "book_covers/The Subtle Art of Not Giving a F*ck.jpg"
+    },
+    {
+        "id": "b6",
+        "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+        "author": "Héctor García & Francesc Miralles",
+        "price": 720.0,
+        "description": "Find purpose, joy, and longevity.",
+        "cover_path": "book_covers/Ikigai - The Japanese Secret to a Long and Happy Life.jpg"
+    },
+    {
+        "id": "b7",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "price": 650.0,
+        "description": "Lessons on money and financial freedom.",
+        "cover_path": "book_covers/Rich Dad Poor Dad.jpg"
+    },
+    {
+        "id": "b8",
+        "title": "Can’t Hurt Me",
+        "author": "David Goggins",
+        "price": 950.0,
+        "description": "Mental toughness through extreme challenges.",
+        "cover_path": "book_covers/Can’t Hurt Me.jpg"
+    },
+    {
+        "id": "b9",
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "price": 880.0,
+        "description": "Timeless lessons on wealth and behavior.",
+        "cover_path": "book_covers/The Psychology of Money.jpg"
+    },
+    {
+        "id": "b10",
+        "title": "Start with Why",
+        "author": "Simon Sinek",
+        "price": 850.0,
+        "description": "Inspire action by finding purpose.",
+        "cover_path": "book_covers/Start with Why.jpg"
+    },
+    {
+        "id": "b11",
+        "title": "Educated",
+        "author": "Tara Westover",
+        "price": 799.0,
+        "description": "Memoir of resilience and self-education.",
+        "cover_path": "book_covers/Educated.jpg"
+    },
+    {
+        "id": "b12",
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "price": 820.0,
+        "description": "Regrets, choices, and infinite life paths.",
+        "cover_path": "book_covers/The Midnight Library.jpg"
+    },
+    {
+        "id": "b13",
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "price": 1099.0,
+        "description": "Epic sci-fi saga of power and survival.",
+        "cover_path": "book_covers/Dune.jpg"
+    },
+    {
+        "id": "b14",
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 899.0,
+        "description": "A chilling dystopian novel about totalitarian control.",
+        "cover_path": "book_covers/1984.jpg"
+    },
+    {
+        "id": "b15",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 799.0,
+        "description": "A timeless story of justice, race, and childhood.",
+        "cover_path": "book_covers/To Kill a Mockingbird.jpg"
+    },
+    {
+        "id": "b16",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "price": 950.0,
+        "description": "A futuristic world shaped by technology and conformity.",
+        "cover_path": "book_covers/Brave New World.jpg"
+    },
+    {
+        "id": "b17",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 870.0,
+        "description": "The tragic tale of wealth, love, and the American Dream.",
+        "cover_path": "book_covers/The Great Gatsby.jpg"
+    },
+    {
+        "id": "b18",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "price": 1200.0,
+        "description": "An epic sea adventure of obsession and revenge.",
+        "cover_path": "book_covers/Moby-Dick.jpg"
+    },
+    {
+        "id": "b19",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "price": 1499.0,
+        "description": "Sweeping tale of love and war in imperial Russia.",
+        "cover_path": "book_covers/War and Peace.jpg"
+    },
+    {
+        "id": "b20",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "price": 999.0,
+        "description": "A psychological exploration of guilt and redemption.",
+        "cover_path": "book_covers/Crime and Punishment.jpg"
+    },
+    {
+        "id": "b21",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 799.0,
+        "description": "A witty romance of manners and social class.",
+        "cover_path": "book_covers/Pride and Prejudice.jpg"
+    },
+    {
+        "id": "b22",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 820.0,
+        "description": "A coming-of-age story of rebellion and alienation.",
+        "cover_path": "book_covers/The Catcher in the Rye.jpg"
+    },
+    {
+        "id": "b23",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "price": 1050.0,
+        "description": "A fantasy adventure with hobbits, dragons, and treasure.",
+        "cover_path": "book_covers/The Hobbit.jpg"
+    },
+    {
+        "id": "b24",
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "price": 1150.0,
+        "description": "The first volume in the Lord of the Rings trilogy.",
+        "cover_path": "book_covers/The Fellowship of the Ring.jpg"
+    },
+    {
+        "id": "b25",
+        "title": "The Two Towers",
+        "author": "J.R.R. Tolkien",
+        "price": 1150.0,
+        "description": "The second volume in the Lord of the Rings trilogy.",
+        "cover_path": "book_covers/The Two Towers.jpg"
+    },
+    {
+        "id": "b26",
+        "title": "The Return of the King",
+        "author": "J.R.R. Tolkien",
+        "price": 1150.0,
+        "description": "The epic conclusion to the Lord of the Rings trilogy.",
+        "cover_path": "book_covers/The Return of the King.jpg"
+    },
+    {
+        "id": "b27",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "price": 750.0,
+        "description": "A philosophical tale about following your dreams.",
+        "cover_path": "book_covers/The Alchemist.jpg"
+    },
+    {
+        "id": "b28",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "price": 890.0,
+        "description": "A WWII story narrated by Death itself.",
+        "cover_path": "book_covers/The Book Thief.jpg"
+    },
+    {
+        "id": "b29",
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "price": 920.0,
+        "description": "A story of friendship, betrayal, and redemption.",
+        "cover_path": "book_covers/The Kite Runner.jpg"
+    },
+    {
+        "id": "b30",
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "price": 1300.0,
+        "description": "An epic story of justice, mercy, and revolution.",
+        "cover_path": "book_covers/Les Misérables.jpg"
+    },
+    {
+        "id": "b31",
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "price": 770.0,
+        "description": "A gothic tale of science, creation, and monstrosity.",
+        "cover_path": "book_covers/Frankenstein.jpg"
+    },
+    {
+        "id": "b32",
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "price": 800.0,
+        "description": "The legendary vampire tale of Count Dracula.",
+        "cover_path": "book_covers/Dracula.jpg"
+    },
+    {
+        "id": "b33",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "price": 870.0,
+        "description": "A dystopian world where books are forbidden.",
+        "cover_path": "book_covers/Fahrenheit 451.jpg"
+    },
+    {
+        "id": "b34",
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "price": 1250.0,
+        "description": "A tragic romance set against Russian high society.",
+        "cover_path": "book_covers/Anna Karenina.jpg"
+    },
+    {
+        "id": "b35",
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "price": 1350.0,
+        "description": "A profound exploration of faith, morality, and family.",
+        "cover_path": "book_covers/The Brothers Karamazov.jpg"
+    },
+    {
+        "id": "b36",
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "price": 880.0,
+        "description": "A haunting romance on the Yorkshire moors.",
+        "cover_path": "book_covers/Wuthering Heights.jpg"
+    },
+    {
+        "id": "b37",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "price": 890.0,
+        "description": "A gothic romance of love, independence, and secrets.",
+        "cover_path": "book_covers/Jane Eyre.jpg"
+    },
+    {
+        "id": "b38",
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "price": 1400.0,
+        "description": "A comic adventure of an idealistic knight and his squire.",
+        "cover_path": "book_covers/Don Quixote.jpg"
+    },
+    {
+        "id": "b39",
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "price": 1600.0,
+        "description": "A poetic journey through Hell, Purgatory, and Heaven.",
+        "cover_path": "book_covers/The Divine Comedy.jpeg"
+    },
+    {
+        "id": "b40",
+        "title": "Paradise Lost",
+        "author": "John Milton",
+        "price": 1100.0,
+        "description": "An epic poem about the fall of man and rebellion in Heaven.",
+        "cover_path": "book_covers/Paradise Lost.jpg"
+    },
+    {
+        "id": "b41",
+        "title": "Meditations",
+        "author": "Marcus Aurelius",
+        "price": 700.0,
+        "description": "Stoic philosophy from a Roman emperor.",
+        "cover_path": "book_covers/Meditations.jpg"
+    },
+    {
+        "id": "b42",
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "price": 650.0,
+        "description": "Ancient Chinese wisdom on strategy and warfare.",
+        "cover_path": "book_covers/The Art of War.jpg"
+    },
+    {
+        "id": "b43",
+        "title": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "price": 980.0,
+        "description": "Philosophical novel introducing the Übermensch.",
+        "cover_path": "book_covers/Thus Spoke Zarathustra.jpg"
+    }
+]
